@@ -5,18 +5,15 @@ import fresh_tomatoes
 
 # Create 3 movie objects
 shawshank = media.movie("Shawshank Redemption",
-                        "http://t0.gstatic.com/images?q=tbn:ANd9GcSkmMH-\
-                        bEDUS2TmK8amBqgIMgrfzN1_mImChPuMrunA1XjNTSKm",
+                        "goo.gl/7Igms1",
                         "https://www.youtube.com/watch?v=6hB3S9bIaco")
 
 jurassic = media.movie("Jurassic Park",
-                       "http://t1.gstatic.com/images?q=tbn:ANd9GcT9t_mvZu0k-\
-                       wS_QqvQmPKc6FMkwJoj0HgUjwLJK7uGG_NtZBxV",
+                       "http://goo.gl/4bqgtt",
                        "www.youtube.com/watch?v=lc0UehYemQA")
 
 insideman = media.movie("Inside Man",
-                        "http://www.gstatic.com/tv/thumb/movieposters/159788/\
-                        p159788_p_v7_aa.jpg",
+                        "http://goo.gl/qdLWnh",
                         "www.youtube.com/watch?v=3WRxsmqercg")
 
 # create a list of movies to display
