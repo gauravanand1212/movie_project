@@ -1,13 +1,26 @@
-# Python 2.7
-#
-# This is an app to display your favorite movies with their posters
-# and play their yourtube trailers
-#
-# To run the app, simply launch the fresh_tomatoes.html file in any
-# web browser to render the movie objects. Click on any object to 
-# play the youtube trailer in a modal box
-#
-# To add more movies, create more movie objects in the 
-# entertainment_center.py
-#
-# To add more detail to the movie class, modify media.py
+Movie Trailer Website
+--------------------------------
+
+This application generates a web page where users can view 
+trailers of some of my favorite movies
+
+The zip file contains the following files:
+-----------------------------------------
+------| entertainment_center.py
+------| fresh_tomatoes.py
+------| fresh_tomatoes.html
+------| media.py
+------| README.txt
+
+How to run the application:
+------------------------------------------
+- You need to have Python 2.7 installed on your machine
+- In terminal, navigate to the folder where the unzipped files are stored
+- Run the command => Python entertainment_center.py
+
+This will generate fresh_tomatoes.html which will open up in your web browser
+with posters of my favorite movies. Click on any movie to watch the trailer
+
+Copyright: XXX
+Author: Gaurav Anand
+Date: 10/20
